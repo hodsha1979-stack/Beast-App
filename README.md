@@ -1,4 +1,4 @@
-# Beast-App
+# beast-app
 This mother Fucker slaps!
 <!DOCTYPE html>
 <html lang="en">
